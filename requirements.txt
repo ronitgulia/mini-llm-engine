@@ -2,3 +2,4 @@ numpy
 transformers
 safetensors
 pytest
+huggingface_hub
